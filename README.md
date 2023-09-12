@@ -26,6 +26,7 @@ yarn add iconfonts-casaos
 @import '~iconfonts-casaos/casaos-iconfonts.css';
 ```
 
-## View all icons
+## Links
 
-[Demo](https://icewhaletech.github.io/CasaOS-Iconfonts/)
+[View all icons](https://icewhaletech.github.io/CasaOS-Iconfonts/)  
+[npm Page](https://www.npmjs.com/package/iconfonts-casaos)
