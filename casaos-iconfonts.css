@@ -1,0 +1,380 @@
+@font-face {
+  font-family: 'casaos';
+  src:  url('fonts/casaos.eot?omkjso');
+  src:  url('fonts/casaos.eot?omkjso#iefix') format('embedded-opentype'),
+    url('fonts/casaos.ttf?omkjso') format('truetype'),
+    url('fonts/casaos.woff?omkjso') format('woff'),
+    url('fonts/casaos.svg?omkjso#casaos') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="casa-"], [class*=" casa-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'casaos' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.casa-warning-solid:before {
+  content: "\e921";
+}
+.casa-facebook:before {
+  content: "\e929";
+}
+.casa-reddit:before {
+  content: "\e92a";
+}
+.casa-twitter:before {
+  content: "\e92b";
+}
+.casa-exit-app-outline:before {
+  content: "\e932";
+}
+.casa-view-outline:before {
+  content: "\e920";
+}
+.casa-eject-outline:before {
+  content: "\e923";
+}
+.casa-expand-down:before {
+  content: "\e930";
+}
+.casa-expand:before {
+  content: "\e900";
+}
+.casa-history-records-outline:before {
+  content: "\e922";
+}
+.casa-storage-network:before {
+  content: "\e924";
+}
+.casa-storage-other:before {
+  content: "\e925";
+}
+.casa-storage-merger:before {
+  content: "\e92f";
+}
+.casa-storage-USB:before {
+  content: "\e926";
+}
+.casa-share:before {
+  content: "\e928";
+}
+.casa-user-edit-outline:before {
+  content: "\e912";
+}
+.casa-thumb-up-outline:before {
+  content: "\e90e";
+}
+.casa-sync-outline:before {
+  content: "\e90a";
+}
+.casa-close-xs-outline:before {
+  content: "\e910";
+}
+.casa-picture-upload-outline:before {
+  content: "\e90d";
+}
+.casa-chat:before {
+  content: "\e901";
+}
+.casa-copy-outline:before {
+  content: "\e902";
+}
+.casa-user:before {
+  content: "\e903";
+}
+.casa-clear-outline:before {
+  content: "\e904";
+}
+.casa-unlink-outline:before {
+  content: "\e905";
+}
+.casa-wifi-off-outline:before {
+  content: "\e906";
+}
+.casa-ios:before {
+  content: "\e907";
+}
+.casa-android:before {
+  content: "\e908";
+}
+.casa-macos:before {
+  content: "\e909";
+}
+.casa-windows:before {
+  content: "\e90b";
+}
+.casa-eject:before {
+  content: "\e90c";
+}
+.casa-protection:before {
+  content: "\e90f";
+}
+.casa-cloud:before {
+  content: "\e911";
+}
+.casa-root:before {
+  content: "\e913";
+}
+.casa-protection-outline:before {
+  content: "\e914";
+}
+.casa-cloud-outline:before {
+  content: "\e915";
+}
+.casa-upload-outline:before {
+  content: "\e916";
+}
+.casa-backup-outline:before {
+  content: "\e917";
+}
+.casa-data-outline:before {
+  content: "\e918";
+}
+.casa-phone-outline:before {
+  content: "\e919";
+}
+.casa-computer-outline:before {
+  content: "\e91a";
+}
+.casa-laptop-outline:before {
+  content: "\e91b";
+}
+.casa-shared-outline:before {
+  content: "\e91c";
+}
+.casa-gallery-outline:before {
+  content: "\e91d";
+}
+.casa-downloads-outline:before {
+  content: "\e91e";
+}
+.casa-root-outline:before {
+  content: "\e91f";
+}
+.casa-media-outline:before {
+  content: "\e927";
+}
+.casa-files-outline:before {
+  content: "\e92c";
+}
+.casa-plus-question-outline:before {
+  content: "\e92d";
+}
+.casa-paste-outline:before {
+  content: "\e92e";
+}
+.casa-sending-files-outline:before {
+  content: "\e931";
+}
+.casa-drop:before {
+  content: "\e933";
+}
+.casa-edit-outline:before {
+  content: "\e934";
+}
+.casa-posted-by:before {
+  content: "\e935";
+}
+.casa-category:before {
+  content: "\e936";
+}
+.casa-question-outline:before {
+  content: "\e937";
+}
+.casa-dots-vertical-outline:before {
+  content: "\e938";
+}
+.casa-posted-by-outline:before {
+  content: "\e939";
+}
+.casa-category-outline:before {
+  content: "\e93a";
+}
+.casa-menu-outline:before {
+  content: "\e93b";
+}
+.casa-collapse-outline:before {
+  content: "\e93c";
+}
+.casa-smb:before {
+  content: "\e93d";
+}
+.casa-webdav:before {
+  content: "\e93e";
+}
+.casa-transmission-outline:before {
+  content: "\e93f";
+}
+.casa-trash-outline:before {
+  content: "\e940";
+}
+.casa-trash-empty-outline:before {
+  content: "\e941";
+}
+.casa-folder-open-outline:before {
+  content: "\e942";
+}
+.casa-folder-outline:before {
+  content: "\e943";
+}
+.casa-overview-outline:before {
+  content: "\e944";
+}
+.casa-view-dashboard-outline:before {
+  content: "\e945";
+}
+.casa-information-outline:before {
+  content: "\e946";
+}
+.casa-wifi-outline:before {
+  content: "\e947";
+}
+.casa-alert-circle-outline:before {
+  content: "\e948";
+}
+.casa-eye-off-outline:before {
+  content: "\e949";
+}
+.casa-eye-outline:before {
+  content: "\e94a";
+}
+.casa-alert-outline:before {
+  content: "\e94b";
+}
+.casa-docker-outline:before {
+  content: "\e94c";
+}
+.casa-indeterminate-outline:before {
+  content: "\e94d";
+}
+.casa-dots-horizontal-outline:before {
+  content: "\e94e";
+}
+.casa-shutdown-outline:before {
+  content: "\e94f";
+}
+.casa-restart-outline:before {
+  content: "\e950";
+}
+.casa-check-outline:before {
+  content: "\e951";
+}
+.casa-show-search-outline:before {
+  content: "\e952";
+}
+.casa-news-outline:before {
+  content: "\e953";
+}
+.casa-display-applications-outline:before {
+  content: "\e954";
+}
+.casa-usb-outline:before {
+  content: "\e955";
+}
+.casa-update-outline:before {
+  content: "\e956";
+}
+.casa-wallpaper-outline:before {
+  content: "\e957";
+}
+.casa-port-outline:before {
+  content: "\e958";
+}
+.casa-language-outline:before {
+  content: "\e959";
+}
+.casa-search-category-outline:before {
+  content: "\e95a";
+}
+.casa-search2-outline:before {
+  content: "\e95b";
+}
+.casa-plus-outline:before {
+  content: "\e95c";
+}
+.casa-down-arrow:before {
+  content: "\e95d";
+}
+.casa-up-arrow:before {
+  content: "\e95e";
+}
+.casa-search-outline:before {
+  content: "\e95f";
+}
+.casa-network-outline:before {
+  content: "\e960";
+}
+.casa-storage-outline:before {
+  content: "\e961";
+}
+.casa-system-outline:before {
+  content: "\e962";
+}
+.casa-time-outline:before {
+  content: "\e963";
+}
+.casa-terminal-outline:before {
+  content: "\e964";
+}
+.casa-account-outline:before {
+  content: "\e965";
+}
+.casa-control-outline:before {
+  content: "\e966";
+}
+.casa-close-outline:before {
+  content: "\e967";
+}
+.casa-eedback:before {
+  content: "\e968";
+}
+.casa-bug:before {
+  content: "\e969";
+}
+.casa-discord:before {
+  content: "\e96a";
+}
+.casa-github:before {
+  content: "\e96b";
+}
+.casa-settings-outline:before {
+  content: "\e96c";
+}
+.casa-minus-outline:before {
+  content: "\e96d";
+}
+.casa-add-outline:before {
+  content: "\e96e";
+}
+.casa-down-outline:before {
+  content: "\e96f";
+}
+.casa-up-outline:before {
+  content: "\e970";
+}
+.casa-left-outline:before {
+  content: "\e971";
+}
+.casa-right-outline:before {
+  content: "\e972";
+}
+.casa-us:before {
+  content: "\e973";
+}
+.casa-email:before {
+  content: "\e974";
+}
+.casa-share-1:before {
+  content: "\e975";
+}
