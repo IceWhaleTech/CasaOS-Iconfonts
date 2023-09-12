@@ -1,9 +1,17 @@
 # CasaOS Icon fonts library
 
+current version: 1.0.4
+
 ## Install
 
 ```bash
 npm install iconfonts-casaos
+```
+
+or
+
+```bash
+pnpm install iconfonts-casaos
 ```
 
 or
@@ -20,4 +28,4 @@ yarn add iconfonts-casaos
 
 ## View all icons
 
-
+[Demo](https://icewhaletech.github.io/CasaOS-Iconfonts/)
