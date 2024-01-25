@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'casaos';
-  src:  url('fonts/casaos.eot?omkjso');
-  src:  url('fonts/casaos.eot?omkjso#iefix') format('embedded-opentype'),
-    url('fonts/casaos.ttf?omkjso') format('truetype'),
-    url('fonts/casaos.woff?omkjso') format('woff'),
-    url('fonts/casaos.svg?omkjso#casaos') format('svg');
+  src:  url('fonts/casaos.eot?h4lq6c');
+  src:  url('fonts/casaos.eot?h4lq6c#iefix') format('embedded-opentype'),
+    url('fonts/casaos.ttf?h4lq6c') format('truetype'),
+    url('fonts/casaos.woff?h4lq6c') format('woff'),
+    url('fonts/casaos.svg?h4lq6c#casaos') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -13,6 +13,7 @@
 [class^="casa-"], [class*=" casa-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'casaos' !important;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -377,4 +378,25 @@
 }
 .casa-share-1:before {
   content: "\e975";
+}
+.casa-language2-outline:before {
+  content: "\e976";
+}
+.casa-unknow-device-outline:before {
+  content: "\e977";
+}
+.casa-unknow:before {
+  content: "\e978";
+}
+.casa-ethernet-outline:before {
+  content: "\e979";
+}
+.casa-zimacube-outline:before {
+  content: "\e97a";
+}
+.casa-thunderbolt-outline:before {
+  content: "\e97b";
+}
+.casa-internet-outline:before {
+  content: "\e97d";
 }
