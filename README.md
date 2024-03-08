@@ -1,6 +1,6 @@
 # CasaOS Icon fonts library
 
-current version: 1.0.4
+current version: 1.0.7
 
 ## Install
 
