@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'casaos';
-  src:  url('fonts/casaos.eot?7e570u');
-  src:  url('fonts/casaos.eot?7e570u#iefix') format('embedded-opentype'),
-    url('fonts/casaos.ttf?7e570u') format('truetype'),
-    url('fonts/casaos.woff?7e570u') format('woff'),
-    url('fonts/casaos.svg?7e570u#casaos') format('svg');
+  src:  url('fonts/casaos.eot?bqx4ab');
+  src:  url('fonts/casaos.eot?bqx4ab#iefix') format('embedded-opentype'),
+    url('fonts/casaos.ttf?bqx4ab') format('truetype'),
+    url('fonts/casaos.woff?bqx4ab') format('woff'),
+    url('fonts/casaos.svg?bqx4ab#casaos') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -405,4 +405,109 @@
 }
 .casa-network2-outline:before {
   content: "\e97e";
+}
+.casa-hdd-usb-outline:before {
+  content: "\e97f";
+}
+.casa-hdd-local-outline:before {
+  content: "\e980";
+}
+.casa-hdd-system-outline:before {
+  content: "\e981";
+}
+.casa-dots-vertical2-outline:before {
+  content: "\e982";
+}
+.casa-grid-horizontal:before {
+  content: "\e983";
+}
+.casa-unlink2-outline:before {
+  content: "\e984";
+}
+.casa-eject2-outline:before {
+  content: "\e985";
+}
+.casa-sync2-outline:before {
+  content: "\e986";
+}
+.casa-plus2-outline:before {
+  content: "\e987";
+}
+.casa-view-grid-outline:before {
+  content: "\e988";
+}
+.casa-view-list-outline:before {
+  content: "\e989";
+}
+.casa-upload2-outline:before {
+  content: "\e98a";
+}
+.casa-download-outline:before {
+  content: "\e98b";
+}
+.casa-folder-plus-outline:before {
+  content: "\e98c";
+}
+.casa-trash2-outline:before {
+  content: "\e98d";
+}
+.casa-copy2-outline:before {
+  content: "\e98e";
+}
+.casa-cut-outline:before {
+  content: "\e98f";
+}
+.casa-duplicate-outline:before {
+  content: "\e990";
+}
+.casa-paste2-outline:before {
+  content: "\e991";
+}
+.casa-paste-done-outline:before {
+  content: "\e992";
+}
+.casa-paste-cancel-outline:before {
+  content: "\e993";
+}
+.casa-share-outline:before {
+  content: "\e994";
+}
+.casa-right2-outline:before {
+  content: "\e995";
+}
+.casa-left2-outline:before {
+  content: "\e996";
+}
+.casa-edit2-outline:before {
+  content: "\e997";
+}
+.casa-zoom-in-outline:before {
+  content: "\e998";
+}
+.casa-zoom-out-outline:before {
+  content: "\e999";
+}
+.casa-rotate-right-outline:before {
+  content: "\e99a";
+}
+.casa-rotate-left-outline:before {
+  content: "\e99b";
+}
+.casa-reset-outline:before {
+  content: "\e99c";
+}
+.casa-close2-outline:before {
+  content: "\e99d";
+}
+.casa-play:before {
+  content: "\e99e";
+}
+.casa-pause:before {
+  content: "\e99f";
+}
+.casa-expand-up2:before {
+  content: "\e9a0";
+}
+.casa-expand-down2:before {
+  content: "\e9a1";
 }

@@ -1,6 +1,6 @@
 {
   "name": "iconfonts-casaos",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "```bash npm install casaos-iconfonts ```",
   "main": "casaos-iconfonts.css",
   "author": "IceWhaleTech",
