@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'casaos';
-  src:  url('fonts/casaos.eot?bqx4ab');
-  src:  url('fonts/casaos.eot?bqx4ab#iefix') format('embedded-opentype'),
-    url('fonts/casaos.ttf?bqx4ab') format('truetype'),
-    url('fonts/casaos.woff?bqx4ab') format('woff'),
-    url('fonts/casaos.svg?bqx4ab#casaos') format('svg');
+  src:  url('fonts/casaos.eot?3gljvg');
+  src:  url('fonts/casaos.eot?3gljvg#iefix') format('embedded-opentype'),
+    url('fonts/casaos.ttf?3gljvg') format('truetype'),
+    url('fonts/casaos.woff?3gljvg') format('woff'),
+    url('fonts/casaos.svg?3gljvg#casaos') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -413,7 +413,10 @@
   content: "\e980";
 }
 .casa-hdd-system-outline:before {
-  content: "\e981";
+  content: "\e997";
+}
+.casa-raid-outline:before {
+  content: "\e9a2";
 }
 .casa-dots-vertical2-outline:before {
   content: "\e982";
@@ -445,6 +448,12 @@
 .casa-download-outline:before {
   content: "\e98b";
 }
+.casa-file-up-outline:before {
+  content: "\e9a3";
+}
+.casa-folder-up-outline:before {
+  content: "\e9a4";
+}
 .casa-folder-plus-outline:before {
   content: "\e98c";
 }
@@ -457,18 +466,6 @@
 .casa-cut-outline:before {
   content: "\e98f";
 }
-.casa-duplicate-outline:before {
-  content: "\e990";
-}
-.casa-paste2-outline:before {
-  content: "\e991";
-}
-.casa-paste-done-outline:before {
-  content: "\e992";
-}
-.casa-paste-cancel-outline:before {
-  content: "\e993";
-}
 .casa-share-outline:before {
   content: "\e994";
 }
@@ -479,7 +476,7 @@
   content: "\e996";
 }
 .casa-edit2-outline:before {
-  content: "\e997";
+  content: "\e981";
 }
 .casa-zoom-in-outline:before {
   content: "\e998";
@@ -510,4 +507,28 @@
 }
 .casa-expand-down2:before {
   content: "\e9a1";
+}
+.casa-alert2-circle-outline:before {
+  content: "\e9a5";
+}
+.casa-duplicate-outline:before {
+  content: "\e990";
+}
+.casa-duplicate-fail-outline:before {
+  content: "\e9a6";
+}
+.casa-duplicate-ok-outline:before {
+  content: "\e9a7";
+}
+.casa-paste-alert-outline:before {
+  content: "\e9a8";
+}
+.casa-paste-done-outline:before {
+  content: "\e992";
+}
+.casa-paste2-outline:before {
+  content: "\e991";
+}
+.casa-paste-cancel-outline:before {
+  content: "\e993";
 }
