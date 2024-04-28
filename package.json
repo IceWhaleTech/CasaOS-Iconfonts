@@ -1,13 +1,13 @@
 {
   "name": "iconfonts-casaos",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "```bash npm install casaos-iconfonts ```",
   "main": "casaos-iconfonts.css",
   "author": "IceWhaleTech",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/IceWhaleTech/CasaOS-Iconfonts"
+    "url": "git+https://github.com/IceWhaleTech/CasaOS-Iconfonts.git"
   },
   "homepage": "https://icewhaletech.github.io/CasaOS-Iconfonts"
 }

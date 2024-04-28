@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'casaos';
-  src:  url('fonts/casaos.eot?3gljvg');
-  src:  url('fonts/casaos.eot?3gljvg#iefix') format('embedded-opentype'),
-    url('fonts/casaos.ttf?3gljvg') format('truetype'),
-    url('fonts/casaos.woff?3gljvg') format('woff'),
-    url('fonts/casaos.svg?3gljvg#casaos') format('svg');
+  src:  url('fonts/casaos.eot?j3fu8d');
+  src:  url('fonts/casaos.eot?j3fu8d#iefix') format('embedded-opentype'),
+    url('fonts/casaos.ttf?j3fu8d') format('truetype'),
+    url('fonts/casaos.woff?j3fu8d') format('woff'),
+    url('fonts/casaos.svg?j3fu8d#casaos') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -531,4 +531,7 @@
 }
 .casa-paste-cancel-outline:before {
   content: "\e993";
+}
+.casa-backup2-outline:before {
+  content: "\e9a9";
 }
